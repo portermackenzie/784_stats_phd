@@ -14,3 +14,4 @@ file.rename() to rename file ex: file.rename("mytest.R", "mytest2.R")
 file.remove() to delete file
 file.copy() to copy foles ex file.copy("mytest2.R", "mytest3.R")
 file.path(name) to provide path for the file
+1:20 = all integer b/w 1-20
